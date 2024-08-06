@@ -1,81 +1,30 @@
-# Welcome to My GitHub Profile!
-
-👋 Hi there! I’m a passionate software developer with a strong focus on JavaScript and 3D modeling using WebGL and THREE.js. I love creating interactive and visually stunning web applications that push the boundaries of what's possible in the browser.
-
-## 🚀 About Me
-
-- **Name**: Bansari Panchal
-- **Location**: Gujarat, India
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks**: THREE.js, React, Node.js, Express
-- **Tools**: Git, Webpack, Blender, VSCode
-
-## 🌟 Skills
-
-- **JavaScript**: Proficient in ES6+ features, asynchronous programming, and functional programming paradigms.
-- **3D Modeling**: Experienced in creating and manipulating 3D objects and scenes using THREE.js and WebGL.
-- **Web Development**: Building responsive and dynamic web applications with modern JavaScript frameworks.
-- **Problem Solving**: Strong analytical skills and a keen eye for detail, enabling me to tackle complex coding challenges.
-
-## 💻 Projects
-
-Here are some of my notable projects:
-
-1. ## 🌌 Solar System Visualization
-
-**Live Demo**: [Solar System Visualization](https://solar-system-bansari-panchal.netlify.app/)
-
-### 📖 Project Overview
-
-The Solar System Visualization project is an interactive 3D model that showcases the planets and their orbits in our solar system. Built using **Three.js** and **WebGL**, this project aims to provide an engaging way to explore the celestial bodies and understand their relative sizes, distances, and movements.
-
-### 🎨 Features
-
-- **Interactive 3D Visualization**: Rotate and zoom in on the solar system to explore planets and their orbits.
-- **Realistic Planet Models**: Each planet is modeled with attention to detail, including textures that represent their surfaces.
-- **Orbit Simulation**: Observe the planets moving in their orbits, providing a dynamic understanding of their relationships.
-- **User-Friendly Controls**: Easy-to-use controls for navigating the scene, making the experience intuitive for users of all ages.
-
-### 💻 Technologies Used
-
-- **Three.js**: A powerful JavaScript library for creating 3D graphics in the browser.
-- **WebGL**: Used for rendering the 3D graphics, allowing for high-performance visuals.
-- **HTML/CSS**: For structuring and styling the web application.
-- **JavaScript**: To handle the logic and interactivity of the application.
-
-## github repository
-- https://github.com/meow-20/solar-system
+<h1 align="center">Howdy! I'm Bansari Panchal 🌻</h1>
+<h3 align="center">An Adventurer in the World of Software 🖥 </h3>
+<img align="right" alt="coding-cat" width="350" style="margin-top:20px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDUzM3RhdHVyamtqYmZjMnZydzZwYzFzOHU4eTcxcDdubTQ5aG91aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.webp">
 
 
-2. ## 🕶️ Ray-Ban Wobble Effect
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meow-20&label=Profile%20views&color=0e75b6&style=flat" alt="meow-20" /> </p>
 
-**Live Demo**: [Ray-Ban Wobble Effect](https://ray-ban-bansari-panchal.netlify.app/)
+- 🌱 I’m currently learning **Next.js**
 
-### 📖 Project Overview
+- 👨‍💻 All of my projects are available at [https://github.com/meow-20](https://github.com/meow-20)
 
-The Ray-Ban Wobble Effect project is an interactive web application that showcases a pair of Ray-Ban sunglasses with a unique wobbling effect triggered by mouse movement. Leveraging **Shery.js**, this project provides an engaging and immersive experience as users interact with the sunglasses.
+- 💬 Ask me about **gsap, THREE.js, WebGL, React, Vite, Pixi.js, Shery.js, Theatre.js, etc**
 
-### 🎨 Features
+- 📫 How to reach me **bansaripanchal2021@gmail.com**
 
-- **Dynamic Wobble Effect**: The sunglasses wobble in response to mouse movement, creating a playful and eye-catching effect.
-- **Responsive Design**: Optimized for various devices to ensure a smooth experience on both desktop and mobile.
-- **User-Friendly Interface**: Simple navigation and interaction, making it accessible for all users.
+- ⚡ Fun fact **I drink coded coffee ☕**
 
-### 💻 Technologies Used
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/bansari-panchal-310060276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bansari-panchal-310060276" height="30" width="40" /></a>
+</p>
 
-- **Shery.js**: A lightweight library used to implement the wobbling effect based on mouse movement.
-- **HTML/CSS**: For structuring and styling the web application.
-- **JavaScript**: To handle interactivity and animation.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meow-20&show_icons=true&locale=en&layout=compact" alt="meow-20" /></p>
 
-Feel free to explore my repositories for more projects!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meow-20&show_icons=true&locale=en" alt="meow-20" /></p>
 
-## 📫 Get in Touch
-
-I’m always open to collaboration and new opportunities! Feel free to reach out to me:
-
-- **Email**: [bansaripanchal2021@gmail.com]
-- **LinkedIn**: [Bansari Panchal](www.linkedin.com/in/bansari-panchal-310060276)
-
-Thank you for visiting my GitHub profile! Let’s build something amazing together!
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meow-20&" alt="meow-20" /></p>
