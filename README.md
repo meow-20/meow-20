@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **gsap, THREE.js, WebGL, React, Vite, Pixi.js, Shery.js, Theatre.js, etc**
 
-- 📫 How to reach me **bansaripanchal2021@gmail.com**
+- 📫 How to reach me **bansaripanchaluk@gmail.com**
 
 - ⚡ Fun fact **I drink coded coffee ☕**
 
